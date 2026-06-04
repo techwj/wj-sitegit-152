@@ -1,0 +1,88 @@
+# Validation Report - bird-care-basics
+
+Generated: 2026-06-04T11:36:24.720858
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Bird Care Basics
+- ✓ Article word count OK: Beginner Bird Care Basics: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Bird Care Basics
+- ✓ Article word count OK: Beginner Bird Care Basics Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Bird Care Basics
+- ✓ Article word count OK: Beginner Bird Care Basics in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Bird Care Basics
+- ✓ Article word count OK: Common Mistakes in Beginner Bird Care Basics
+- ✓ Article word count OK: Beginner Bird Care Basics for Beginners
+- ✓ Article word count OK: Advanced Beginner Bird Care Basics Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Bird Care Basics
+- ✓ Article word count OK: Advanced Bird Care Basics: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Bird Care Basics
+- ✓ Article word count OK: Advanced Bird Care Basics Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Bird Care Basics
+- ✓ Article word count OK: Advanced Bird Care Basics in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Bird Care Basics
+- ✓ Article word count OK: Common Mistakes in Advanced Bird Care Basics
+- ✓ Article word count OK: Advanced Bird Care Basics for Beginners
+- ✓ Article word count OK: Advanced Advanced Bird Care Basics Techniques
+- ✓ Article word count OK: The Ultimate Guide to Bird Care Basics Tips
+- ✓ Article word count OK: Bird Care Basics Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Bird Care Basics Tips
+- ✓ Article word count OK: Bird Care Basics Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Bird Care Basics Tips
+- ✓ Article word count OK: Bird Care Basics Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Bird Care Basics Tips
+- ✓ Article word count OK: Common Mistakes in Bird Care Basics Tips
+- ✓ Article word count OK: Bird Care Basics Tips for Beginners
+- ✓ Article word count OK: Advanced Bird Care Basics Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Bird Care Basics History
+- ✓ Article word count OK: Bird Care Basics History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Bird Care Basics History
+- ✓ Article word count OK: Bird Care Basics History Tips and Best Practices
+- ✓ Article word count OK: The History of Bird Care Basics History
+- ✓ Article word count OK: Bird Care Basics History in 2026: Current Trends
+- ✓ Article word count OK: Future of Bird Care Basics History
+- ✓ Article word count OK: Common Mistakes in Bird Care Basics History
+- ✓ Article word count OK: Bird Care Basics History for Beginners
+- ✓ Article word count OK: Advanced Bird Care Basics History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Bird Care Basics
+- ✓ Article word count OK: Trending Bird Care Basics: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Bird Care Basics
+- ✓ Article word count OK: Trending Bird Care Basics Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Bird Care Basics
+- ✓ Article word count OK: Trending Bird Care Basics in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Bird Care Basics
+- ✓ Article word count OK: Common Mistakes in Trending Bird Care Basics
+- ✓ Article word count OK: Trending Bird Care Basics for Beginners
+- ✓ Article word count OK: Advanced Trending Bird Care Basics Techniques
+- ✓ Article word count OK: The Ultimate Guide to Bird Care Basics Tutorials
+- ✓ Article word count OK: Bird Care Basics Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Bird Care Basics Tutorials
+- ✓ Article word count OK: Bird Care Basics Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Bird Care Basics Tutorials
+- ✓ Article word count OK: Bird Care Basics Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Bird Care Basics Tutorials
+- ✓ Article word count OK: Common Mistakes in Bird Care Basics Tutorials
+- ✓ Article word count OK: Bird Care Basics Tutorials for Beginners
+- ✓ Article word count OK: Advanced Bird Care Basics Tutorials Techniques
+- ✓ Ad configuration validated

@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>https://example.com/</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#category/beginner-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#category/advanced-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#category/tips-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#category/history-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#category/trending-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#category/tutorials-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/the-ultimate-guide-to-beginner-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/beginner-bird-care-basics-everything-you-need-to-know</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/understanding-beginner-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/beginner-bird-care-basics-tips-and-best-practices</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/the-history-of-beginner-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/beginner-bird-care-basics-in-2026-current-trends</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/future-of-beginner-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/common-mistakes-in-beginner-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/beginner-bird-care-basics-for-beginners</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/advanced-beginner-bird-care-basics-techniques</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/the-ultimate-guide-to-advanced-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/advanced-bird-care-basics-everything-you-need-to-know</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/understanding-advanced-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/advanced-bird-care-basics-tips-and-best-practices</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/the-history-of-advanced-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/advanced-bird-care-basics-in-2026-current-trends</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/future-of-advanced-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/common-mistakes-in-advanced-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/advanced-bird-care-basics-for-beginners</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/advanced-advanced-bird-care-basics-techniques</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/the-ultimate-guide-to-bird-care-basics-tips</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/bird-care-basics-tips-everything-you-need-to-know</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/understanding-bird-care-basics-tips</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/bird-care-basics-tips-tips-and-best-practices</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/the-history-of-bird-care-basics-tips</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/bird-care-basics-tips-in-2026-current-trends</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/future-of-bird-care-basics-tips</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/common-mistakes-in-bird-care-basics-tips</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/bird-care-basics-tips-for-beginners</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/advanced-bird-care-basics-tips-techniques</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/the-ultimate-guide-to-bird-care-basics-history</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/bird-care-basics-history-everything-you-need-to-know</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/understanding-bird-care-basics-history</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/bird-care-basics-history-tips-and-best-practices</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/the-history-of-bird-care-basics-history</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/bird-care-basics-history-in-2026-current-trends</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/future-of-bird-care-basics-history</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/common-mistakes-in-bird-care-basics-history</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/bird-care-basics-history-for-beginners</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/advanced-bird-care-basics-history-techniques</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/the-ultimate-guide-to-trending-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/trending-bird-care-basics-everything-you-need-to-know</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/understanding-trending-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/trending-bird-care-basics-tips-and-best-practices</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/the-history-of-trending-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/trending-bird-care-basics-in-2026-current-trends</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/future-of-trending-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/common-mistakes-in-trending-bird-care-basics</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/trending-bird-care-basics-for-beginners</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/advanced-trending-bird-care-basics-techniques</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/the-ultimate-guide-to-bird-care-basics-tutorials</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/bird-care-basics-tutorials-everything-you-need-to-know</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/understanding-bird-care-basics-tutorials</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/bird-care-basics-tutorials-tips-and-best-practices</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/the-history-of-bird-care-basics-tutorials</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/bird-care-basics-tutorials-in-2026-current-trends</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/future-of-bird-care-basics-tutorials</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/common-mistakes-in-bird-care-basics-tutorials</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/bird-care-basics-tutorials-for-beginners</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/#article/advanced-bird-care-basics-tutorials-techniques</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/privacy.html</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/cookie-policy.html</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/terms.html</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/ad-policy.html</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/contact.html</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/about.html</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/dmca.html</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/accessibility.html</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+</urlset>

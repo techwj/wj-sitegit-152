@@ -1,0 +1,59 @@
+{
+  "siteId": "bird-care-basics",
+  "generatedAt": "2026-06-04T11:36:24.721031",
+  "categories": [
+    "beginner-bird-care-basics",
+    "advanced-bird-care-basics",
+    "tips-bird-care-basics",
+    "history-bird-care-basics",
+    "trending-bird-care-basics",
+    "tutorials-bird-care-basics"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-bird-care-basics",
+      "category_name": "Beginner Bird Care Basics"
+    },
+    {
+      "category_slug": "advanced-bird-care-basics",
+      "category_name": "Advanced Bird Care Basics"
+    },
+    {
+      "category_slug": "tips-bird-care-basics",
+      "category_name": "Bird Care Basics Tips"
+    },
+    {
+      "category_slug": "history-bird-care-basics",
+      "category_name": "Bird Care Basics History"
+    },
+    {
+      "category_slug": "trending-bird-care-basics",
+      "category_name": "Trending Bird Care Basics"
+    },
+    {
+      "category_slug": "tutorials-bird-care-basics",
+      "category_name": "Bird Care Basics Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "bird-care-basics",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "sidebar",
+    "site_title": "Bird Care Basics Central",
+    "articles_per_row": 2
+  }
+}

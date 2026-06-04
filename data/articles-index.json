@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-bird-care-basics",
+      "title": "The Ultimate Guide to Beginner Bird Care Basics",
+      "category": "beginner-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.671099",
+      "image": {
+        "id": "2a10a0ac11c8a438a16afa226bbf33a241eac62e153f96fa82fdc8d05ff0668f",
+        "url": "https://picsum.photos/825/544?random=865",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Bird Care Basics",
+        "width": 825,
+        "height": 544
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-bird-care-basics-everything-you-need-to-know",
+      "title": "Beginner Bird Care Basics: Everything You Need to Know",
+      "category": "beginner-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.671171",
+      "image": {
+        "id": "fd620412b5ca32db6308c38b2e464cf687520b15c215a9efbc462ca37623d12c",
+        "url": "https://picsum.photos/962/585?random=945",
+        "alt": "Featured image for: Beginner Bird Care Basics: Everything You Need to Know",
+        "width": 962,
+        "height": 585
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-bird-care-basics",
+      "title": "Understanding Beginner Bird Care Basics",
+      "category": "beginner-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.671218",
+      "image": {
+        "id": "a570ae4569b85c24e3679fa317fd0dd45801d84a4c0911bbdbd7470e2e93d789",
+        "url": "https://picsum.photos/871/448?random=465",
+        "alt": "Featured image for: Understanding Beginner Bird Care Basics",
+        "width": 871,
+        "height": 448
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-bird-care-basics-tips-and-best-practices",
+      "title": "Beginner Bird Care Basics Tips and Best Practices",
+      "category": "beginner-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.671260",
+      "image": {
+        "id": "6dbc5d4212c15f85f46ca267973c45e90c56b4f90ae4b54abd7e744bf6a44df4",
+        "url": "https://picsum.photos/1081/545?random=586",
+        "alt": "Featured image for: Beginner Bird Care Basics Tips and Best Practices",
+        "width": 1081,
+        "height": 545
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-bird-care-basics",
+      "title": "The History of Beginner Bird Care Basics",
+      "category": "beginner-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.671304",
+      "image": {
+        "id": "efc9b59810e463326fbd6e52c26e4e48b619c0e02827ca588a94e2754b6c17c4",
+        "url": "https://picsum.photos/1172/558?random=142",
+        "alt": "Featured image for: The History of Beginner Bird Care Basics",
+        "width": 1172,
+        "height": 558
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-bird-care-basics-in-2026-current-trends",
+      "title": "Beginner Bird Care Basics in 2026: Current Trends",
+      "category": "beginner-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.671344",
+      "image": {
+        "id": "a570ae4569b85c24e3679fa317fd0dd45801d84a4c0911bbdbd7470e2e93d789",
+        "url": "https://picsum.photos/871/448?random=465",
+        "alt": "Featured image for: Beginner Bird Care Basics in 2026: Current Trends",
+        "width": 871,
+        "height": 448
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-bird-care-basics",
+      "title": "Future of Beginner Bird Care Basics",
+      "category": "beginner-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.671383",
+      "image": {
+        "id": "2a10a0ac11c8a438a16afa226bbf33a241eac62e153f96fa82fdc8d05ff0668f",
+        "url": "https://picsum.photos/825/544?random=865",
+        "alt": "Featured image for: Future of Beginner Bird Care Basics",
+        "width": 825,
+        "height": 544
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-bird-care-basics",
+      "title": "Common Mistakes in Beginner Bird Care Basics",
+      "category": "beginner-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.671421",
+      "image": {
+        "id": "efc9b59810e463326fbd6e52c26e4e48b619c0e02827ca588a94e2754b6c17c4",
+        "url": "https://picsum.photos/1172/558?random=142",
+        "alt": "Featured image for: Common Mistakes in Beginner Bird Care Basics",
+        "width": 1172,
+        "height": 558
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-bird-care-basics-for-beginners",
+      "title": "Beginner Bird Care Basics for Beginners",
+      "category": "beginner-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.671460",
+      "image": {
+        "id": "a570ae4569b85c24e3679fa317fd0dd45801d84a4c0911bbdbd7470e2e93d789",
+        "url": "https://picsum.photos/871/448?random=465",
+        "alt": "Featured image for: Beginner Bird Care Basics for Beginners",
+        "width": 871,
+        "height": 448
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-bird-care-basics-techniques",
+      "title": "Advanced Beginner Bird Care Basics Techniques",
+      "category": "beginner-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.671497",
+      "image": {
+        "id": "fd620412b5ca32db6308c38b2e464cf687520b15c215a9efbc462ca37623d12c",
+        "url": "https://picsum.photos/962/585?random=945",
+        "alt": "Featured image for: Advanced Beginner Bird Care Basics Techniques",
+        "width": 962,
+        "height": 585
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-bird-care-basics",
+      "title": "The Ultimate Guide to Advanced Bird Care Basics",
+      "category": "advanced-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.671839",
+      "image": {
+        "id": "fd620412b5ca32db6308c38b2e464cf687520b15c215a9efbc462ca37623d12c",
+        "url": "https://picsum.photos/962/585?random=945",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Bird Care Basics",
+        "width": 962,
+        "height": 585
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-bird-care-basics-everything-you-need-to-know",
+      "title": "Advanced Bird Care Basics: Everything You Need to Know",
+      "category": "advanced-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.671876",
+      "image": {
+        "id": "2a10a0ac11c8a438a16afa226bbf33a241eac62e153f96fa82fdc8d05ff0668f",
+        "url": "https://picsum.photos/825/544?random=865",
+        "alt": "Featured image for: Advanced Bird Care Basics: Everything You Need to Know",
+        "width": 825,
+        "height": 544
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-bird-care-basics",
+      "title": "Understanding Advanced Bird Care Basics",
+      "category": "advanced-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.671917",
+      "image": {
+        "id": "efc9b59810e463326fbd6e52c26e4e48b619c0e02827ca588a94e2754b6c17c4",
+        "url": "https://picsum.photos/1172/558?random=142",
+        "alt": "Featured image for: Understanding Advanced Bird Care Basics",
+        "width": 1172,
+        "height": 558
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-bird-care-basics-tips-and-best-practices",
+      "title": "Advanced Bird Care Basics Tips and Best Practices",
+      "category": "advanced-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.671957",
+      "image": {
+        "id": "2a10a0ac11c8a438a16afa226bbf33a241eac62e153f96fa82fdc8d05ff0668f",
+        "url": "https://picsum.photos/825/544?random=865",
+        "alt": "Featured image for: Advanced Bird Care Basics Tips and Best Practices",
+        "width": 825,
+        "height": 544
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-bird-care-basics",
+      "title": "The History of Advanced Bird Care Basics",
+      "category": "advanced-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.671994",
+      "image": {
+        "id": "2a10a0ac11c8a438a16afa226bbf33a241eac62e153f96fa82fdc8d05ff0668f",
+        "url": "https://picsum.photos/825/544?random=865",
+        "alt": "Featured image for: The History of Advanced Bird Care Basics",
+        "width": 825,
+        "height": 544
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-bird-care-basics-in-2026-current-trends",
+      "title": "Advanced Bird Care Basics in 2026: Current Trends",
+      "category": "advanced-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.672031",
+      "image": {
+        "id": "a570ae4569b85c24e3679fa317fd0dd45801d84a4c0911bbdbd7470e2e93d789",
+        "url": "https://picsum.photos/871/448?random=465",
+        "alt": "Featured image for: Advanced Bird Care Basics in 2026: Current Trends",
+        "width": 871,
+        "height": 448
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-bird-care-basics",
+      "title": "Future of Advanced Bird Care Basics",
+      "category": "advanced-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.672070",
+      "image": {
+        "id": "efc9b59810e463326fbd6e52c26e4e48b619c0e02827ca588a94e2754b6c17c4",
+        "url": "https://picsum.photos/1172/558?random=142",
+        "alt": "Featured image for: Future of Advanced Bird Care Basics",
+        "width": 1172,
+        "height": 558
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-bird-care-basics",
+      "title": "Common Mistakes in Advanced Bird Care Basics",
+      "category": "advanced-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.672107",
+      "image": {
+        "id": "fd620412b5ca32db6308c38b2e464cf687520b15c215a9efbc462ca37623d12c",
+        "url": "https://picsum.photos/962/585?random=945",
+        "alt": "Featured image for: Common Mistakes in Advanced Bird Care Basics",
+        "width": 962,
+        "height": 585
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-bird-care-basics-for-beginners",
+      "title": "Advanced Bird Care Basics for Beginners",
+      "category": "advanced-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.672144",
+      "image": {
+        "id": "6dbc5d4212c15f85f46ca267973c45e90c56b4f90ae4b54abd7e744bf6a44df4",
+        "url": "https://picsum.photos/1081/545?random=586",
+        "alt": "Featured image for: Advanced Bird Care Basics for Beginners",
+        "width": 1081,
+        "height": 545
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-bird-care-basics-techniques",
+      "title": "Advanced Advanced Bird Care Basics Techniques",
+      "category": "advanced-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.672181",
+      "image": {
+        "id": "efc9b59810e463326fbd6e52c26e4e48b619c0e02827ca588a94e2754b6c17c4",
+        "url": "https://picsum.photos/1172/558?random=142",
+        "alt": "Featured image for: Advanced Advanced Bird Care Basics Techniques",
+        "width": 1172,
+        "height": 558
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-bird-care-basics-tips",
+      "title": "The Ultimate Guide to Bird Care Basics Tips",
+      "category": "tips-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.672519",
+      "image": {
+        "id": "6dbc5d4212c15f85f46ca267973c45e90c56b4f90ae4b54abd7e744bf6a44df4",
+        "url": "https://picsum.photos/1081/545?random=586",
+        "alt": "Featured image for: The Ultimate Guide to Bird Care Basics Tips",
+        "width": 1081,
+        "height": 545
+      }
+    },
+    {
+      "id": 38,
+      "slug": "bird-care-basics-tips-everything-you-need-to-know",
+      "title": "Bird Care Basics Tips: Everything You Need to Know",
+      "category": "tips-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.672557",
+      "image": {
+        "id": "6dbc5d4212c15f85f46ca267973c45e90c56b4f90ae4b54abd7e744bf6a44df4",
+        "url": "https://picsum.photos/1081/545?random=586",
+        "alt": "Featured image for: Bird Care Basics Tips: Everything You Need to Know",
+        "width": 1081,
+        "height": 545
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-bird-care-basics-tips",
+      "title": "Understanding Bird Care Basics Tips",
+      "category": "tips-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.672595",
+      "image": {
+        "id": "efc9b59810e463326fbd6e52c26e4e48b619c0e02827ca588a94e2754b6c17c4",
+        "url": "https://picsum.photos/1172/558?random=142",
+        "alt": "Featured image for: Understanding Bird Care Basics Tips",
+        "width": 1172,
+        "height": 558
+      }
+    },
+    {
+      "id": 40,
+      "slug": "bird-care-basics-tips-tips-and-best-practices",
+      "title": "Bird Care Basics Tips Tips and Best Practices",
+      "category": "tips-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.672632",
+      "image": {
+        "id": "a570ae4569b85c24e3679fa317fd0dd45801d84a4c0911bbdbd7470e2e93d789",
+        "url": "https://picsum.photos/871/448?random=465",
+        "alt": "Featured image for: Bird Care Basics Tips Tips and Best Practices",
+        "width": 871,
+        "height": 448
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-bird-care-basics-tips",
+      "title": "The History of Bird Care Basics Tips",
+      "category": "tips-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.672671",
+      "image": {
+        "id": "fd620412b5ca32db6308c38b2e464cf687520b15c215a9efbc462ca37623d12c",
+        "url": "https://picsum.photos/962/585?random=945",
+        "alt": "Featured image for: The History of Bird Care Basics Tips",
+        "width": 962,
+        "height": 585
+      }
+    },
+    {
+      "id": 42,
+      "slug": "bird-care-basics-tips-in-2026-current-trends",
+      "title": "Bird Care Basics Tips in 2026: Current Trends",
+      "category": "tips-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.672709",
+      "image": {
+        "id": "6dbc5d4212c15f85f46ca267973c45e90c56b4f90ae4b54abd7e744bf6a44df4",
+        "url": "https://picsum.photos/1081/545?random=586",
+        "alt": "Featured image for: Bird Care Basics Tips in 2026: Current Trends",
+        "width": 1081,
+        "height": 545
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-bird-care-basics-tips",
+      "title": "Future of Bird Care Basics Tips",
+      "category": "tips-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.672746",
+      "image": {
+        "id": "efc9b59810e463326fbd6e52c26e4e48b619c0e02827ca588a94e2754b6c17c4",
+        "url": "https://picsum.photos/1172/558?random=142",
+        "alt": "Featured image for: Future of Bird Care Basics Tips",
+        "width": 1172,
+        "height": 558
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-bird-care-basics-tips",
+      "title": "Common Mistakes in Bird Care Basics Tips",
+      "category": "tips-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.672782",
+      "image": {
+        "id": "fd620412b5ca32db6308c38b2e464cf687520b15c215a9efbc462ca37623d12c",
+        "url": "https://picsum.photos/962/585?random=945",
+        "alt": "Featured image for: Common Mistakes in Bird Care Basics Tips",
+        "width": 962,
+        "height": 585
+      }
+    },
+    {
+      "id": 45,
+      "slug": "bird-care-basics-tips-for-beginners",
+      "title": "Bird Care Basics Tips for Beginners",
+      "category": "tips-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.672820",
+      "image": {
+        "id": "2a10a0ac11c8a438a16afa226bbf33a241eac62e153f96fa82fdc8d05ff0668f",
+        "url": "https://picsum.photos/825/544?random=865",
+        "alt": "Featured image for: Bird Care Basics Tips for Beginners",
+        "width": 825,
+        "height": 544
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-bird-care-basics-tips-techniques",
+      "title": "Advanced Bird Care Basics Tips Techniques",
+      "category": "tips-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.672863",
+      "image": {
+        "id": "efc9b59810e463326fbd6e52c26e4e48b619c0e02827ca588a94e2754b6c17c4",
+        "url": "https://picsum.photos/1172/558?random=142",
+        "alt": "Featured image for: Advanced Bird Care Basics Tips Techniques",
+        "width": 1172,
+        "height": 558
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-bird-care-basics-history",
+      "title": "The Ultimate Guide to Bird Care Basics History",
+      "category": "history-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.673193",
+      "image": {
+        "id": "efc9b59810e463326fbd6e52c26e4e48b619c0e02827ca588a94e2754b6c17c4",
+        "url": "https://picsum.photos/1172/558?random=142",
+        "alt": "Featured image for: The Ultimate Guide to Bird Care Basics History",
+        "width": 1172,
+        "height": 558
+      }
+    },
+    {
+      "id": 56,
+      "slug": "bird-care-basics-history-everything-you-need-to-know",
+      "title": "Bird Care Basics History: Everything You Need to Know",
+      "category": "history-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.673230",
+      "image": {
+        "id": "2a10a0ac11c8a438a16afa226bbf33a241eac62e153f96fa82fdc8d05ff0668f",
+        "url": "https://picsum.photos/825/544?random=865",
+        "alt": "Featured image for: Bird Care Basics History: Everything You Need to Know",
+        "width": 825,
+        "height": 544
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-bird-care-basics-history",
+      "title": "Understanding Bird Care Basics History",
+      "category": "history-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.673269",
+      "image": {
+        "id": "fd620412b5ca32db6308c38b2e464cf687520b15c215a9efbc462ca37623d12c",
+        "url": "https://picsum.photos/962/585?random=945",
+        "alt": "Featured image for: Understanding Bird Care Basics History",
+        "width": 962,
+        "height": 585
+      }
+    },
+    {
+      "id": 58,
+      "slug": "bird-care-basics-history-tips-and-best-practices",
+      "title": "Bird Care Basics History Tips and Best Practices",
+      "category": "history-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.673306",
+      "image": {
+        "id": "6dbc5d4212c15f85f46ca267973c45e90c56b4f90ae4b54abd7e744bf6a44df4",
+        "url": "https://picsum.photos/1081/545?random=586",
+        "alt": "Featured image for: Bird Care Basics History Tips and Best Practices",
+        "width": 1081,
+        "height": 545
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-bird-care-basics-history",
+      "title": "The History of Bird Care Basics History",
+      "category": "history-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.673344",
+      "image": {
+        "id": "fd620412b5ca32db6308c38b2e464cf687520b15c215a9efbc462ca37623d12c",
+        "url": "https://picsum.photos/962/585?random=945",
+        "alt": "Featured image for: The History of Bird Care Basics History",
+        "width": 962,
+        "height": 585
+      }
+    },
+    {
+      "id": 60,
+      "slug": "bird-care-basics-history-in-2026-current-trends",
+      "title": "Bird Care Basics History in 2026: Current Trends",
+      "category": "history-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.673381",
+      "image": {
+        "id": "a570ae4569b85c24e3679fa317fd0dd45801d84a4c0911bbdbd7470e2e93d789",
+        "url": "https://picsum.photos/871/448?random=465",
+        "alt": "Featured image for: Bird Care Basics History in 2026: Current Trends",
+        "width": 871,
+        "height": 448
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-bird-care-basics-history",
+      "title": "Future of Bird Care Basics History",
+      "category": "history-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.673420",
+      "image": {
+        "id": "a570ae4569b85c24e3679fa317fd0dd45801d84a4c0911bbdbd7470e2e93d789",
+        "url": "https://picsum.photos/871/448?random=465",
+        "alt": "Featured image for: Future of Bird Care Basics History",
+        "width": 871,
+        "height": 448
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-bird-care-basics-history",
+      "title": "Common Mistakes in Bird Care Basics History",
+      "category": "history-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.673459",
+      "image": {
+        "id": "2a10a0ac11c8a438a16afa226bbf33a241eac62e153f96fa82fdc8d05ff0668f",
+        "url": "https://picsum.photos/825/544?random=865",
+        "alt": "Featured image for: Common Mistakes in Bird Care Basics History",
+        "width": 825,
+        "height": 544
+      }
+    },
+    {
+      "id": 63,
+      "slug": "bird-care-basics-history-for-beginners",
+      "title": "Bird Care Basics History for Beginners",
+      "category": "history-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.673502",
+      "image": {
+        "id": "efc9b59810e463326fbd6e52c26e4e48b619c0e02827ca588a94e2754b6c17c4",
+        "url": "https://picsum.photos/1172/558?random=142",
+        "alt": "Featured image for: Bird Care Basics History for Beginners",
+        "width": 1172,
+        "height": 558
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-bird-care-basics-history-techniques",
+      "title": "Advanced Bird Care Basics History Techniques",
+      "category": "history-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.673567",
+      "image": {
+        "id": "efc9b59810e463326fbd6e52c26e4e48b619c0e02827ca588a94e2754b6c17c4",
+        "url": "https://picsum.photos/1172/558?random=142",
+        "alt": "Featured image for: Advanced Bird Care Basics History Techniques",
+        "width": 1172,
+        "height": 558
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-bird-care-basics",
+      "title": "The Ultimate Guide to Trending Bird Care Basics",
+      "category": "trending-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.673925",
+      "image": {
+        "id": "6dbc5d4212c15f85f46ca267973c45e90c56b4f90ae4b54abd7e744bf6a44df4",
+        "url": "https://picsum.photos/1081/545?random=586",
+        "alt": "Featured image for: The Ultimate Guide to Trending Bird Care Basics",
+        "width": 1081,
+        "height": 545
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-bird-care-basics-everything-you-need-to-know",
+      "title": "Trending Bird Care Basics: Everything You Need to Know",
+      "category": "trending-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.673963",
+      "image": {
+        "id": "fd620412b5ca32db6308c38b2e464cf687520b15c215a9efbc462ca37623d12c",
+        "url": "https://picsum.photos/962/585?random=945",
+        "alt": "Featured image for: Trending Bird Care Basics: Everything You Need to Know",
+        "width": 962,
+        "height": 585
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-bird-care-basics",
+      "title": "Understanding Trending Bird Care Basics",
+      "category": "trending-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674002",
+      "image": {
+        "id": "a570ae4569b85c24e3679fa317fd0dd45801d84a4c0911bbdbd7470e2e93d789",
+        "url": "https://picsum.photos/871/448?random=465",
+        "alt": "Featured image for: Understanding Trending Bird Care Basics",
+        "width": 871,
+        "height": 448
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-bird-care-basics-tips-and-best-practices",
+      "title": "Trending Bird Care Basics Tips and Best Practices",
+      "category": "trending-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674040",
+      "image": {
+        "id": "6dbc5d4212c15f85f46ca267973c45e90c56b4f90ae4b54abd7e744bf6a44df4",
+        "url": "https://picsum.photos/1081/545?random=586",
+        "alt": "Featured image for: Trending Bird Care Basics Tips and Best Practices",
+        "width": 1081,
+        "height": 545
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-bird-care-basics",
+      "title": "The History of Trending Bird Care Basics",
+      "category": "trending-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674079",
+      "image": {
+        "id": "6dbc5d4212c15f85f46ca267973c45e90c56b4f90ae4b54abd7e744bf6a44df4",
+        "url": "https://picsum.photos/1081/545?random=586",
+        "alt": "Featured image for: The History of Trending Bird Care Basics",
+        "width": 1081,
+        "height": 545
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-bird-care-basics-in-2026-current-trends",
+      "title": "Trending Bird Care Basics in 2026: Current Trends",
+      "category": "trending-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674116",
+      "image": {
+        "id": "2a10a0ac11c8a438a16afa226bbf33a241eac62e153f96fa82fdc8d05ff0668f",
+        "url": "https://picsum.photos/825/544?random=865",
+        "alt": "Featured image for: Trending Bird Care Basics in 2026: Current Trends",
+        "width": 825,
+        "height": 544
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-bird-care-basics",
+      "title": "Future of Trending Bird Care Basics",
+      "category": "trending-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674152",
+      "image": {
+        "id": "efc9b59810e463326fbd6e52c26e4e48b619c0e02827ca588a94e2754b6c17c4",
+        "url": "https://picsum.photos/1172/558?random=142",
+        "alt": "Featured image for: Future of Trending Bird Care Basics",
+        "width": 1172,
+        "height": 558
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-bird-care-basics",
+      "title": "Common Mistakes in Trending Bird Care Basics",
+      "category": "trending-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674189",
+      "image": {
+        "id": "2a10a0ac11c8a438a16afa226bbf33a241eac62e153f96fa82fdc8d05ff0668f",
+        "url": "https://picsum.photos/825/544?random=865",
+        "alt": "Featured image for: Common Mistakes in Trending Bird Care Basics",
+        "width": 825,
+        "height": 544
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-bird-care-basics-for-beginners",
+      "title": "Trending Bird Care Basics for Beginners",
+      "category": "trending-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674228",
+      "image": {
+        "id": "6dbc5d4212c15f85f46ca267973c45e90c56b4f90ae4b54abd7e744bf6a44df4",
+        "url": "https://picsum.photos/1081/545?random=586",
+        "alt": "Featured image for: Trending Bird Care Basics for Beginners",
+        "width": 1081,
+        "height": 545
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-bird-care-basics-techniques",
+      "title": "Advanced Trending Bird Care Basics Techniques",
+      "category": "trending-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674265",
+      "image": {
+        "id": "fd620412b5ca32db6308c38b2e464cf687520b15c215a9efbc462ca37623d12c",
+        "url": "https://picsum.photos/962/585?random=945",
+        "alt": "Featured image for: Advanced Trending Bird Care Basics Techniques",
+        "width": 962,
+        "height": 585
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-bird-care-basics-tutorials",
+      "title": "The Ultimate Guide to Bird Care Basics Tutorials",
+      "category": "tutorials-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674602",
+      "image": {
+        "id": "2a10a0ac11c8a438a16afa226bbf33a241eac62e153f96fa82fdc8d05ff0668f",
+        "url": "https://picsum.photos/825/544?random=865",
+        "alt": "Featured image for: The Ultimate Guide to Bird Care Basics Tutorials",
+        "width": 825,
+        "height": 544
+      }
+    },
+    {
+      "id": 92,
+      "slug": "bird-care-basics-tutorials-everything-you-need-to-know",
+      "title": "Bird Care Basics Tutorials: Everything You Need to Know",
+      "category": "tutorials-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674639",
+      "image": {
+        "id": "6dbc5d4212c15f85f46ca267973c45e90c56b4f90ae4b54abd7e744bf6a44df4",
+        "url": "https://picsum.photos/1081/545?random=586",
+        "alt": "Featured image for: Bird Care Basics Tutorials: Everything You Need to Know",
+        "width": 1081,
+        "height": 545
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-bird-care-basics-tutorials",
+      "title": "Understanding Bird Care Basics Tutorials",
+      "category": "tutorials-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674678",
+      "image": {
+        "id": "6dbc5d4212c15f85f46ca267973c45e90c56b4f90ae4b54abd7e744bf6a44df4",
+        "url": "https://picsum.photos/1081/545?random=586",
+        "alt": "Featured image for: Understanding Bird Care Basics Tutorials",
+        "width": 1081,
+        "height": 545
+      }
+    },
+    {
+      "id": 94,
+      "slug": "bird-care-basics-tutorials-tips-and-best-practices",
+      "title": "Bird Care Basics Tutorials Tips and Best Practices",
+      "category": "tutorials-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674715",
+      "image": {
+        "id": "6dbc5d4212c15f85f46ca267973c45e90c56b4f90ae4b54abd7e744bf6a44df4",
+        "url": "https://picsum.photos/1081/545?random=586",
+        "alt": "Featured image for: Bird Care Basics Tutorials Tips and Best Practices",
+        "width": 1081,
+        "height": 545
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-bird-care-basics-tutorials",
+      "title": "The History of Bird Care Basics Tutorials",
+      "category": "tutorials-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674752",
+      "image": {
+        "id": "2a10a0ac11c8a438a16afa226bbf33a241eac62e153f96fa82fdc8d05ff0668f",
+        "url": "https://picsum.photos/825/544?random=865",
+        "alt": "Featured image for: The History of Bird Care Basics Tutorials",
+        "width": 825,
+        "height": 544
+      }
+    },
+    {
+      "id": 96,
+      "slug": "bird-care-basics-tutorials-in-2026-current-trends",
+      "title": "Bird Care Basics Tutorials in 2026: Current Trends",
+      "category": "tutorials-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674788",
+      "image": {
+        "id": "fd620412b5ca32db6308c38b2e464cf687520b15c215a9efbc462ca37623d12c",
+        "url": "https://picsum.photos/962/585?random=945",
+        "alt": "Featured image for: Bird Care Basics Tutorials in 2026: Current Trends",
+        "width": 962,
+        "height": 585
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-bird-care-basics-tutorials",
+      "title": "Future of Bird Care Basics Tutorials",
+      "category": "tutorials-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674828",
+      "image": {
+        "id": "2a10a0ac11c8a438a16afa226bbf33a241eac62e153f96fa82fdc8d05ff0668f",
+        "url": "https://picsum.photos/825/544?random=865",
+        "alt": "Featured image for: Future of Bird Care Basics Tutorials",
+        "width": 825,
+        "height": 544
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-bird-care-basics-tutorials",
+      "title": "Common Mistakes in Bird Care Basics Tutorials",
+      "category": "tutorials-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674865",
+      "image": {
+        "id": "2a10a0ac11c8a438a16afa226bbf33a241eac62e153f96fa82fdc8d05ff0668f",
+        "url": "https://picsum.photos/825/544?random=865",
+        "alt": "Featured image for: Common Mistakes in Bird Care Basics Tutorials",
+        "width": 825,
+        "height": 544
+      }
+    },
+    {
+      "id": 99,
+      "slug": "bird-care-basics-tutorials-for-beginners",
+      "title": "Bird Care Basics Tutorials for Beginners",
+      "category": "tutorials-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674901",
+      "image": {
+        "id": "a570ae4569b85c24e3679fa317fd0dd45801d84a4c0911bbdbd7470e2e93d789",
+        "url": "https://picsum.photos/871/448?random=465",
+        "alt": "Featured image for: Bird Care Basics Tutorials for Beginners",
+        "width": 871,
+        "height": 448
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-bird-care-basics-tutorials-techniques",
+      "title": "Advanced Bird Care Basics Tutorials Techniques",
+      "category": "tutorials-bird-care-basics",
+      "created_at": "2026-06-04T11:36:24.674937",
+      "image": {
+        "id": "6dbc5d4212c15f85f46ca267973c45e90c56b4f90ae4b54abd7e744bf6a44df4",
+        "url": "https://picsum.photos/1081/545?random=586",
+        "alt": "Featured image for: Advanced Bird Care Basics Tutorials Techniques",
+        "width": 1081,
+        "height": 545
+      }
+    }
+  ],
+  "categories": [
+    "beginner-bird-care-basics",
+    "advanced-bird-care-basics",
+    "tips-bird-care-basics",
+    "history-bird-care-basics",
+    "trending-bird-care-basics",
+    "tutorials-bird-care-basics"
+  ]
+}
